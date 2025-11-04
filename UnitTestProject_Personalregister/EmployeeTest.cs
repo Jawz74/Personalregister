@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using perso
+using Pers
 using System;
 
 namespace UnitTestProject_Personalregister

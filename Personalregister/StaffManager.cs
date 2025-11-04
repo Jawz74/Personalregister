@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Personalregister
 {
-    internal static class StaffManager
+    public static class StaffManager
     {
         public static void PrintEmployeeList(List<Employee> empList)
         {

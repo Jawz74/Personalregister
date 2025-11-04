@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Personalregister
 {
-    internal class Helpers
+    public class Helpers
     {
         public static decimal ReadDecimalInput(string prompt, decimal min, decimal max, string errorMessage)
         {
